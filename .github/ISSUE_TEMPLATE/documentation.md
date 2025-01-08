@@ -2,7 +2,7 @@
 name: 📝 Documentation
 about: 문서화 관련 이슈를 생성합니다.
 title: "[Docs] "
-labels: docu
+labels: documentation
 assignees: ''
 
 ---
